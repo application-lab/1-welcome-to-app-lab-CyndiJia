@@ -12,12 +12,11 @@ Due Wednesday, September 11
 Be sure and use [markdown](https://medium.com/applab-fall-2019/homework-1-github-bootcamp-bb21077a878b) to help format your document. You can study this document and how it appears on Github to learn more.
 
 # About Me
-Hello! My name is Christian and I live in Shanghai, China. I spend time exploring the intersections of management, creativity, art and technology. I have a lot of ideas and I make a lot of stuff: messaging apps, cryptocurrency hardware, virtual reality games and educational content. I teach students at NYU Shanghai with the goal of helping them understand the intersection of ideas and realities.
+Hello! My name is Cyndi(Yudi) Jia and I'm from Beijing, China. I am a senior student major in _**Interactive Media Arts**_ and minor in _**Sound and Music Computing**_. Having studied IMA for three years, I took a variety of classes including the nature of code, NIME, kinetic interfaces,Video Arts, etc, and I'm fond of creative coding stuff and making installations. I studied away in Abu Dhabi during Fall 2018 semester, where I took many music classes and decided to minor in Sound and Music Computing, and spent my Spring 2019 semester in New York taking ITP classes.
 
-I'm a founding member of NYU Shanghai, China's first Sino-American university. I was on the ground floor putting in the plumbing, and was initially responsible for planning and operations to establish the school in Shanghai. Currently I'm teaching and researching full time, while continuing to build interesting products and art in my spare time.
+Application Lab is a new field for me to explore, and one of my potential direction for my career path, as I am thinking about applying for graduate programs related to Human Computer Interaction. Throughout my past three years of studying IMA, I've been making art projects that people may or may not understand. But I'm always thinking about one question: _**Where can my projects be used for? How can I make the stuff I designed to serve people and make our lives more efficient?**_ And that's a big part of the reason of me taking this class, because I really want to learn something related to human-centered design, to truly research and understand what people really need in modern lives.
 
-My diverse skill set lends itself well to small, nimble teams. I pride myself on my ability to take risks to create new things. I work efficiently, play multiple roles and speak many languages (programming, business, Chinese). I know enough about most things to sound like an expert on technology, project management, software engineering, digital prototyping, corporate and venture finance, capital markets, macroeconomics and the Chinese innovation ecosystem.
-
+As for programming skills, I've learned Arduino, Processing, P5.js, Python, HTML,CSS and JavaScirpt in the past. React.js is totally new to me and I'm very happy to learn about it.
 
 
 
